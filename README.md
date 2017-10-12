@@ -1,6 +1,6 @@
 ## React JS Fundamentals - 리액트 기초 웹 서비스 만들기
 
-[강좌 1 ~ 20 까지](https://www.youtube.com/watch?v=sM2p1EqTlw4&list=PL7jH19IHhOLOFTVD4R8FeZWkwpVi8-9Fv&index=1) 따라해보면서 리액트의 구조와 사용법을 익혀보는 시간을 가졌다.
+[강좌 1 ~ 20 까지](https://www.youtube.com/watch?v=sM2p1EqTlw4&list=PL7jH19IHhOLOFTVD4R8FeZWkwpVi8-9Fv&index=1) 따라해보면서 리액트의 구조와 사용법을 익혀보는 시간을 가졌습니다.
 
 ### 리액트란?
 
